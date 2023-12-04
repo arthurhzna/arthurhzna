@@ -8,5 +8,4 @@ You can click the Preview link to take a look at your changes.
 
 #### Top Repositories
 
-| <a href="https://github.com/arthurhzna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurhzna&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="arthurhzna github stats" /></a> | <a href="https://github.com/arthurhzna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhzna&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/arthurhzna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhzna&layout=compact&theme=buefy&hide_border=true" /></a> |
