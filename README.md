@@ -4,7 +4,6 @@
     </a>
 </h1>
 
-<p align="justify">Arthur Hozanna Aja.</p>
 
 <p align="center">
     <img src="https://media.giphy.com/media/ge7l7e5EiHUYI3e71P/giphy.gif" />
