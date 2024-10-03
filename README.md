@@ -1,3 +1,15 @@
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FFBB5C&center=true&width=435&lines=Hallo+Everyone!;My+Name+Bima+Prasetio;Welcome+to+My+Profile+GitHub;Nice+to+Meet+You!" alt="Bimss Running Teks" />
+    </a>
+</h1>
+
+<p align="justify">Arthur Hozanna Aja.</p>
+
+<p align="center">
+    <img src="https://media.giphy.com/media/ge7l7e5EiHUYI3e71P/giphy.gif" />
+</p>
+
 ajarin dong
 <!---
 arthurhzna/arthurhzna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
