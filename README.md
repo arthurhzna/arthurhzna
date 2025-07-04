@@ -9,7 +9,7 @@
     <img src="https://media.giphy.com/media/ge7l7e5EiHUYI3e71P/giphy.gif" />
 </p>
 
-ajarin dong
+I’m currently learning about Go and PostgreSQL.
 <!---
 arthurhzna/arthurhzna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
