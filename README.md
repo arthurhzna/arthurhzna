@@ -17,4 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 Currently mastering Java and Go ⚒️🔨🛠️
 
+Also Grinding on [LeetCode](https://leetcode.com/u/SrV9d6dqA7/) every day 🧠📝🚀
+
 死ぬ気でやれ。
