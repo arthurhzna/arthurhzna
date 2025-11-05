@@ -15,10 +15,11 @@ You can click the Preview link to take a look at your changes.
 
 <!---<a href="https://github.com/arthurhzna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhzna&layout=compact&theme=buefy&hide_border=true" /></a>--->
 
-Currently mastering Java and Go ⚒️🔨🛠️
+**Currently mastering Java and Go ⚒️🔨🛠️**  
+Also grinding on [LeetCode](https://leetcode.com/u/SrV9d6dqA7/) every day 🧠📝🚀  
 
-Also Grinding on [LeetCode](https://leetcode.com/u/SrV9d6dqA7/) every day 🧠📝🚀
+Not just coding — but learning to build systems that are **scalable, maintainable, and efficient**,  
+while growing into a true **problem solver.**  
 
-Not just coding — but learning how to build systems that are scalable, maintainable, and efficient, and to become a true problem solver.
+**死ぬ気でやれ。**
 
-死ぬ気でやれ。
