@@ -19,4 +19,6 @@ Currently mastering Java and Go ⚒️🔨🛠️
 
 Also Grinding on [LeetCode](https://leetcode.com/u/SrV9d6dqA7/) every day 🧠📝🚀
 
+Not just coding — but learning how to build systems that are scalable, maintainable, and efficient, and to become a true problem solver.
+
 死ぬ気でやれ。
