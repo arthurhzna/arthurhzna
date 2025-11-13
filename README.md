@@ -19,5 +19,7 @@ You can click the Preview link to take a look at your changes.
 Also grinding on [LeetCode](https://leetcode.com/u/SrV9d6dqA7/) every day 🧠📝🚀  
 
 Not just coding — but learning to build systems that are **scalable, maintainable, and efficient**
+
+
 **死ぬ気でやれ。**
 
