@@ -1,25 +1,22 @@
-<h1 align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FFBB5C&center=true&width=435&lines=Hallo+Everyone!;My+Name+Arthur+Hozanna;Welcome+to+My+Profile+GitHub;Nice+to+Meet+You!" alt="Bimss Running Teks" />
-    </a>
-</h1>
-<!---
-<p align="center">
-    <img src="https://media.giphy.com/media/ge7l7e5EiHUYI3e71P/giphy.gif" />
-</p>
---->
-<!---
-arthurhzna/arthurhzna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Arthur 👋
 
-<!---<a href="https://github.com/arthurhzna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhzna&layout=compact&theme=buefy&hide_border=true" /></a>--->
+Software Engineer with experience building scalable, maintainable, and efficient systems.  
+Interested in system design, distributed systems, and clean architecture, with a strong focus on continuous learning and long-term growth.
 
-**Currently mastering Java and Go ⚒️🔨🛠️**  
-Also grinding on [LeetCode](https://leetcode.com/u/SrV9d6dqA7/) every day 🧠📝🚀  
+[![LeetCode](https://img.shields.io/badge/LeetCode-SrV9d6dqA7-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/SrV9d6dqA7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur_Hozanna-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-hozanna/)
 
-Not just coding — but learning to build systems that are **scalable, maintainable, and efficient**
+## 💬 Languages
+![Languages](https://skillicons.dev/icons?i=go,java,python,c,cpp,javascript,typescript,html,css)
 
+## 🛢️ Databases & Messaging
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,kafka,rabbitmq,mqtt)
 
-**死ぬ気でやれ。**
+## ⚙️ DevOps & Tools
+![DevOps](https://skillicons.dev/icons?i=docker,jenkins,git,githubactions,nginx,aws,gcp)
 
+## 📊 Observability & Monitoring
+![Observability](https://skillicons.dev/icons?i=prometheus,grafana,fluentbit,loki)
+
+## 🎨 Frontend
+![Frontend](https://skillicons.dev/icons?i=react,nextjs)
