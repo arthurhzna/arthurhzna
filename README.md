@@ -1,7 +1,6 @@
 # Hi, I'm Arthur 👋
 
-Software Engineer with hands-on experience building scalable, maintainable, and efficient systems.
-Strong interest in system design, distributed systems, and clean architecture, with a strong focus on continuous learning and long-term growth.
+Software Engineer with a strong foundation in backend development, with hands-on experience designing and implementing backend systems using modern server-side and cloud-based technologies, applying scalability and reliability principles. Familiar with service-to-service communication (synchronous and asynchronous protocols), microservices architecture, CI/CD pipelines, and core computer science fundamentals.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Arthur_Hozanna-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/SrV9d6dqA7/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur_Hozanna-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-hozanna/)
