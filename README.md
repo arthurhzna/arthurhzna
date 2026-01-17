@@ -17,5 +17,5 @@ Software Engineer with a strong foundation in backend development, with hands-on
 ## 📊 Observability & Monitoring
 ![Observability](https://skillicons.dev/icons?i=prometheus,grafana,fluentbit,loki)
 
-## 🎨 Frontend
+## 🎨 Website Development
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs)
