@@ -17,7 +17,7 @@ Currently engaged in a daily battle royale with LeetCode, optimizing solutions f
 ![DevOps](https://skillicons.dev/icons?i=docker,jenkins,git,githubactions,nginx,aws,gcp)
 
 ## 📊 Observability & Monitoring
-![Observability](https://skillicons.dev/icons?i=prometheus,grafana,fluentbit,loki)
+![Observability](https://skillicons.dev/icons?i=prometheus,grafana,fluentbit,loki,jaeger,opentelemetry)
 
 ## 🎨 Web Development
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs)
