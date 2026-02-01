@@ -6,6 +6,7 @@ Currently engaged in a daily battle royale with LeetCode, optimizing solutions f
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Arthur_Hozanna-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/SrV9d6dqA7/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur_Hozanna-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-hozanna/)
+
 ![Total Stars](https://img.shields.io/github/stars/arthurhzna?affiliations=OWNER&style=social)
 
 
